@@ -8,6 +8,8 @@ https://github.com/calcuis/gguf
 
 https://github.com/rgthree/rgthree-comfy
 
+https://github.com/walke2019/ComfyUI-GGUF-VLM
+
 https://github.com/weekii/comfyui-save-image-pro
 
 ## Tongyi/T2I_Z_Image_Turbo_GGUF.json
@@ -54,7 +56,7 @@ https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edi
 
 /ComfyUI/models/unet/gguf/
 
-https://huggingface.co/QuantStack/Qwen-Image-GGUF/resolve/main/Qwen_Image-Q4_K_S.gguf
+https://huggingface.co/QuantStack/Qwen-Image-GGUF/resolve/main/Qwen_Image-Q3_K_S.gguf
 
 /ComfyUI/models/clip/gguf/
 
